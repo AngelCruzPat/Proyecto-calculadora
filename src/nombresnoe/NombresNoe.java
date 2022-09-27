@@ -18,6 +18,7 @@ public class NombresNoe {
         // TODO code application logic here
         //Nombres
         System.out.println("Mi nombre es Angel");
+        System.out.println("Mi nombre es Benjamin");
     }
     
 }
